@@ -10,3 +10,13 @@
 
  Model
  ![alt text](image.png)
+
+First try
+
+![alt text](<Capture d’écran 2024-03-20 141647.png>)
+
+ Hyperparameters optimisation
+
+ ![alt text](gen_alg_200.png)
+
+![alt text](80.png)
